@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resource/wordlist.txt</file>
+    </qresource>
+</RCC>
